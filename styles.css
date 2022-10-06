@@ -1,0 +1,126 @@
+.body{
+    background: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+    border: 10px solid greenyellow;
+    background-size: cover;
+    height: 2200px;
+
+}
+
+.welcome{
+    width: 350px;
+    background-color: black;
+    border-radius: 40px;
+    border: 5px solid red;
+    border-width: 10px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.welcome p{
+    font-size: 26px;
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    font-style: italic;
+    font-weight: 600;
+}
+.menu{
+    width: 400px;
+    background-color: black;
+    border-radius: 50px;
+    border: 5px solid red;
+    border-width: 10px;
+    margin-top: -130px;
+    margin-left: 270px;
+}
+.menu p{
+    font-size: 26px;
+    color: white;
+    margin-left: 40px;
+    font-style: italic;
+    font-weight: 300;
+}
+.details{
+    width: 400px;
+    background-color: black;
+    border-radius: 50px;
+    border: 5px solid red;
+    border-width: 10px;
+    margin-top: -130px;
+    margin-left: 790px;
+}
+.details p{
+    font-size: 24px;
+    color: white;
+    margin-left: 60px;
+    font-style: italic;
+    font-weight: 600;
+}
+.circle{
+    width: 450px;
+    height: 450px;
+    background-color: #4AB19D;
+    border-radius: 1000px;
+    border: 5px solid grey;
+    border-width: 10px;
+    margin-top: 200px;
+    margin-left: 30px;
+}
+.circle p{
+    font-size: 23px;
+    color: black;
+    margin-left: 10px;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: 600;
+}
+.register{
+        width: 600px;
+        background-color: white;
+        border-radius: 0px;
+        border: 5px red;
+        border-style: dashed;
+        border-width: 10px;
+        margin-top: -650px;
+        margin-left: 550px;
+    }
+    .register h1{
+        color: hotpink;
+        margin-left: 100px;
+    }
+    #label1{
+        font-size:22px;
+        color: hotpink;
+    }
+    #dob{
+        width: 170px;
+    }
+    .menubutton{
+        width: 400px;
+        height: 80px;
+        background-color: black;
+        border: 5px solid red;
+        border-width: 10px;
+        border-radius: 50px;
+        margin-top: 80px;
+        margin-left: 400px;
+    }
+    .menubutton h1{
+        color: white;
+        margin-bottom: 100px;
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+    .cards{
+        width: 300px;
+        height: 250px;
+        background-color: #6DFFF8;
+        border: solid #32811C;
+        border-width: 5px;
+        border-radius: 30px;
+        margin-top: 50px;
+        display: inline-block;
+    }
+    .title , .list{
+        color: #3F277D;
+    }
