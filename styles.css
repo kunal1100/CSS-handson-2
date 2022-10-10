@@ -124,3 +124,12 @@
     .title , .list{
         color: #3F277D;
     }
+    .cards1{
+        width: 300px;
+        height: 250px;
+        background-color: #6DFFF8;
+        border: solid #32811C;
+        border-width: 5px;
+        border-radius: 30px;
+        display: inline-block;
+    }
